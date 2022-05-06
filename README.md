@@ -11,3 +11,6 @@
 ⦁	Kurs detail səhifəsi hazırlamaq api ilə 
 
 ⦁	Kursa daxil olanda ona aid sillabus və dərslər video linki ilə gəlsin
+
+
+<a href="https://etreeks.vercel.app/course-details"> Veb Sayt Link</a>
